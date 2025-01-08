@@ -8,6 +8,11 @@ A collection of more or less useful ViewHelpers
 #### [EXT:container-wrap](https://github.com/thomasrawiel/container-wrap)
 Add wrapper functions to make configuring b13/container easier
 
+#### [EXT:vcfqr](https://github.com/thomasrawiel/vcfqr)
+- Add QR Code for typolinks
+- Add QR Code to download vcf file of address (or extbase) record
+- ADD QR Code to download ical file
+
 ## Additional functions for EXT:powermail
 #### [EXT:powermailcatcha](https://github.com/thomasrawiel/powermailcaptcha)
 Captcha Extension for TYPO3 powermail, provides multiple options to include captchas:
