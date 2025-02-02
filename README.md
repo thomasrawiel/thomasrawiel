@@ -1,19 +1,29 @@
 ## General
+#### [EXT:container-wrap](https://github.com/thomasrawiel/container-wrap)
+Add wrapper functions to make configuring b13/container easier
+
+#### [EXT:sup_header](https://github.com/thomasrawiel/sup-header)
+Add a simple button to allow editors without html knowledge to add html tags to TCA fields
+
 #### [EXT:vhs-col](https://github.com/thomasrawiel/vhs-col)
 A collection of more or less useful ViewHelpers
 - Adds some useful viewhelpers
 - Adds "API" functions to simplify registering CTypes, doktypes, rootline fields
 - Adds TCA ItemsProcFunction to conditonally add select options
 
-#### [EXT:container-wrap](https://github.com/thomasrawiel/container-wrap)
-Add wrapper functions to make configuring b13/container easier
-
 #### [EXT:vcfqr](https://github.com/thomasrawiel/vcfqr)
 - Add QR Code for typolinks
 - Add QR Code to download vcf file of address (or extbase) record
 - ADD QR Code to download ical file
 
+*** 
+
 ## Additional functions for EXT:powermail
+#### [EXT:powermailautocomplete](https://github.com/thomasrawiel/powermailautocomplete)
+Add autocomplete tokens to powermail fields
+- autocomplete on/off for forms or individual fields
+- specific autocomplete tokens (email, name, creditcard information etc.) and categories (billing, shipping, custom)
+
 #### [EXT:powermailcatcha](https://github.com/thomasrawiel/powermailcaptcha)
 Captcha Extension for TYPO3 powermail, provides multiple options to include captchas:
 - Google Recaptcha
@@ -21,11 +31,6 @@ Captcha Extension for TYPO3 powermail, provides multiple options to include capt
 - hCaptcha
 - Cloudflare
 - Prosopo Procaptcha
-  
-#### [EXT:powermailautocomplete](https://github.com/thomasrawiel/powermailautocomplete)
-Add autocomplete tokens to powermail fields
-- autocomplete on/off for forms or individual fields
-- specific autocomplete tokens (email, name, creditcard information etc.) and categories (billing, shipping, custom)
 
 #### [EXT:powermailjira](https://github.com/thomasrawiel/powermail-jira)
 Base Extension for powermail jira issues extensions
@@ -36,12 +41,16 @@ Post powermail form submissions as jira issues for API v2 (on-premise, self-host
 #### [EXT:powermail-jira-issues](https://github.com/thomasrawiel/powermail-jira-issues)
 Post powermail form submissions as jira issues for API v3 (Jira Cloud)
 
+***
+
 ## SEO
 #### [EXT:hreflang-pages](https://github.com/thomasrawiel/hreflang-pages)
 Add more control which pages are rendered as hreflang, especially useful in multitree setup to avoid duplicate content
 
 #### [EXT:hreflang-news](https://github.com/thomasrawiel/hreflang-news) (beta)
 Add news records to hreflang, especially useful in multitree setup to avoid duplicate content
+
+***
 
 ## Video
 #### [EXT:video-vtt](https://github.com/thomasrawiel/video-vtt)
