@@ -1,11 +1,15 @@
 ## General
-#### [EXT:container-wrap](https://github.com/thomasrawiel/container-wrap)
+#### [EXT:container_wrap](https://github.com/thomasrawiel/container-wrap)
 Add wrapper functions to make configuring b13/container easier
+
+
+#### [EXT:news_content_columns](https://github.com/thomasrawiel/news-content-columns)
+Render content elements, that are attached to news records in a different column than the news plugin
 
 #### [EXT:sup_header](https://github.com/thomasrawiel/sup-header)
 Add a simple button to allow editors without html knowledge to add html tags to TCA fields
 
-#### [EXT:vhs-col](https://github.com/thomasrawiel/vhs-col)
+#### [EXT:vhs_col](https://github.com/thomasrawiel/vhs-col)
 A collection of more or less useful ViewHelpers
 - Adds some useful viewhelpers
 - Adds "API" functions to simplify registering CTypes, doktypes, rootline fields
@@ -35,25 +39,25 @@ Captcha Extension for TYPO3 powermail, provides multiple options to include capt
 #### [EXT:powermailjira](https://github.com/thomasrawiel/powermail-jira)
 Base Extension for powermail jira issues extensions
 
-#### [EXT:powermail-jiraonpremise-issues](https://github.com/thomasrawiel/powermail-jiraonpremise-issues)
+#### [EXT:powermail_jiraonpremise_issues](https://github.com/thomasrawiel/powermail-jiraonpremise-issues)
 Post powermail form submissions as jira issues for API v2 (on-premise, self-hosted Jira)
 
-#### [EXT:powermail-jira-issues](https://github.com/thomasrawiel/powermail-jira-issues)
+#### [EXT:powermail_jira-issues](https://github.com/thomasrawiel/powermail-jira-issues)
 Post powermail form submissions as jira issues for API v3 (Jira Cloud)
 
 ***
 
 ## SEO
-#### [EXT:hreflang-pages](https://github.com/thomasrawiel/hreflang-pages)
+#### [EXT:hreflang_pages](https://github.com/thomasrawiel/hreflang-pages)
 Add more control which pages are rendered as hreflang, especially useful in multitree setup to avoid duplicate content
 
-#### [EXT:hreflang-news](https://github.com/thomasrawiel/hreflang-news) (beta)
+#### [EXT:hreflang_news](https://github.com/thomasrawiel/hreflang-news) (beta)
 Add news records to hreflang, especially useful in multitree setup to avoid duplicate content
 
 ***
 
 ## Video
-#### [EXT:video-vtt](https://github.com/thomasrawiel/video-vtt)
+#### [EXT:video_vtt](https://github.com/thomasrawiel/video-vtt)
 Extends TYPO3 Video functionality by adding player attributes (mute, loop, showcontrols, etc.) and VTT functionality for local videos.
 - add vtt (subtitles, captions, other time-based data)
 - add poster image for self-hosted videos (e.g. mp4)
