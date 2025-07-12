@@ -1,90 +1,113 @@
-## General
-#### [EXT:container_wrap](https://github.com/thomasrawiel/container-wrap)
-Add wrapper functions to make configuring b13/container easier
+## 📦 Misc. Extensions
 
+### [EXT:container_wrap](https://github.com/thomasrawiel/container-wrap)
+🧱 Add wrapper functions to simplify configuring `b13/container`.
 
-#### [EXT:news_content_columns](https://github.com/thomasrawiel/news-content-columns)
-Render content elements, that are attached to news records in a different column than the news plugin
+✅ TYPO3 12 · ✅ TYPO3 13
 
-#### [EXT:sup_header](https://github.com/thomasrawiel/sup-header)
-Add a simple button to allow editors without html knowledge to add html tags to TCA fields
+### [EXT:news_content_columns](https://github.com/thomasrawiel/news-content-columns)
+📰 Render content elements attached to news records in a different column than the news plugin.
 
-#### [EXT:vhs_col](https://github.com/thomasrawiel/vhs-col)
-A collection of more or less useful ViewHelpers
-- Adds some useful viewhelpers
-- Adds "API" functions to simplify registering CTypes, doktypes, rootline fields
-- Adds TCA ItemsProcFunction to conditonally add select options
+✅ TYPO3 12 · ✅ TYPO3 13
 
-#### [EXT:vcfqr](https://github.com/thomasrawiel/vcfqr)
-- Add QR Code for typolinks
-- Add QR Code to download vcf file of address (or extbase) record
-- ADD QR Code to download ical file
+### [EXT:sup_header](https://github.com/thomasrawiel/sup-header)
+📝 Adds a simple button for editors to insert HTML tags into TCA fields without needing HTML knowledge.
 
-*** 
+✅ TYPO3 12 · ✅ TYPO3 13
 
-## Additional functions for EXT:powermail
-#### [EXT:powermailautocomplete](https://github.com/thomasrawiel/powermailautocomplete)
-Add autocomplete tokens to powermail fields
-- autocomplete on/off for forms or individual fields
-- specific autocomplete tokens (email, name, creditcard information etc.) and categories (billing, shipping, custom)
+### [EXT:vhs_col](https://github.com/thomasrawiel/vhs-col)
+🧰 Collection of useful ViewHelpers and TYPO3 helpers:
+- Register CTypes, doktypes, rootline fields
+- Adds TCA `ItemsProcFunction` to conditionally add select options
 
-#### [EXT:powermailcatcha](https://github.com/thomasrawiel/powermailcaptcha)
-Captcha Extension for TYPO3 powermail, provides multiple options to include captchas:
-- Google Recaptcha
-- Friendlycaptcha
-- hCaptcha
-- Cloudflare
+✅ TYPO3 12 · ✅ TYPO3 13
+
+### [EXT:vcfqr](https://github.com/thomasrawiel/vcfqr)
+🔗 QR Codes for typolinks, address records (VCF), and calendar downloads (iCal).
+
+✅ TYPO3 12 · ✅ TYPO3 13
+
+---
+
+## 📨 Extensions for EXT:powermail
+
+### [EXT:powermailautocomplete](https://github.com/thomasrawiel/powermailautocomplete)
+🔤 Add `autocomplete` tokens to powermail fields:
+- Enable/disable per form or field
+- Supports standard tokens (email, name, etc.) and categories (billing, shipping, etc.)
+
+✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13
+
+---
+
+### [EXT:powermailcaptcha](https://github.com/thomasrawiel/powermailcaptcha)
+🔒 Captcha options for powermail:
+- Google reCAPTCHA
+- hCaptcha, Friendlycaptcha
+- Cloudflare Turnstile
 - Prosopo Procaptcha
 
-#### [EXT:powermailjira](https://github.com/thomasrawiel/powermail-jira)
-Base Extension for powermail jira issues extensions
+✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13
+
+---
+
+### [EXT:powermailjira](https://github.com/thomasrawiel/powermail-jira)
+📥 Base extension for Jira integration with powermail.
+
+✅ TYPO3 12
 
 #### [EXT:powermail_jiraonpremise_issues](https://github.com/thomasrawiel/powermail-jiraonpremise-issues)
-Post powermail form submissions as jira issues for API v2 (on-premise, self-hosted Jira)
+🏢 Create Jira issues from powermail using API v2 (on-premise/self-hosted).
+
+✅ TYPO3 12
 
 #### [EXT:powermail_jira-issues](https://github.com/thomasrawiel/powermail-jira-issues)
-Post powermail form submissions as jira issues for API v3 (Jira Cloud)
+☁️ Create Jira issues from powermail using API v3 (Jira Cloud).
 
-***
+✅ TYPO3 12
 
-## SEO
-#### [EXT:hreflang_pages](https://github.com/thomasrawiel/hreflang-pages)
-Add more control which pages are rendered as hreflang, especially useful in multitree setup to avoid duplicate content
+---
 
-#### [EXT:hreflang_news](https://github.com/thomasrawiel/hreflang-news) (beta)
-Add news records to hreflang, especially useful in multitree setup to avoid duplicate content
+## 🔎 SEO Extensions
 
-***
+### [EXT:hreflang_pages](https://github.com/thomasrawiel/hreflang-pages)
+🌐 Fine-grained control over hreflang generation (useful in multi-tree setups).
 
-## Video
-#### [EXT:video_vtt](https://github.com/thomasrawiel/video-vtt)
-Extends TYPO3 Video functionality by adding player attributes (mute, loop, showcontrols, etc.) and VTT functionality for local videos.
-- add vtt (subtitles, captions, other time-based data)
-- add poster image for self-hosted videos (e.g. mp4)
-- add controlsList options for chromium browsers
+✅ TYPO3 11 · ✅ TYPO3 12
 
-#### [EXT:whatchado](https://github.com/thomasrawiel/whatchado)
-Embed www.whatchado.com videos
+### [EXT:hreflang_news](https://github.com/thomasrawiel/hreflang-news) *(beta)*
+🗞️ Adds hreflang support for news records in multi-tree setups.
 
+✅ TYPO3 11 · ✅ TYPO3 12
 
+---
 
+## 🎬 Video
 
+### [EXT:video_vtt](https://github.com/thomasrawiel/video-vtt)
+🎞️ Enhances TYPO3 video handling:
+- VTT (subtitles, captions)
+- Poster images for self-hosted videos
+- Control attributes (mute, loop, controlsList, etc.)
 
+✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13
 
+### [EXT:whatchado](https://github.com/thomasrawiel/whatchado)
+📹 Embed videos from [whatchado.com](https://www.whatchado.com/).
 
+✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13
 
+---
 
-<!--
-**thomasrawiel/thomasrawiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Miscellaneous
 
-Here are some ideas to get you started:
+### [goaccess-merge-loop](https://github.com/thomasrawiel/goaccess-merge-loop)
+📊 Merge Apache logs and process them with GoAccess in a loop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📦 Composer Packages
+
+📚 Available at [packagist.org/packages/traw](https://packagist.org/packages/traw)
+
+---
