@@ -8,7 +8,7 @@
 ### [EXT:news_content_columns](https://github.com/thomasrawiel/news-content-columns)
 📰 Render content elements attached to news records in a different column than the news plugin.
 
-✅ TYPO3 12 · ✅ TYPO3 13
+✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
 
 ### [EXT:sup_header](https://github.com/thomasrawiel/sup-header)
 📝 Adds a simple button for editors to insert HTML tags into TCA fields without needing HTML knowledge.
@@ -20,7 +20,7 @@
 - Register CTypes, doktypes, rootline fields
 - Adds TCA `ItemsProcFunction` to conditionally add select options
 
-✅ TYPO3 12 · ✅ TYPO3 13
+✅ TYPO3 12 · ✅ TYPO3 13 · 👀 TYPO3 14
 
 ### [EXT:vcfqr](https://github.com/thomasrawiel/vcfqr)
 🔗 QR Codes for typolinks, address records (VCF), and calendar downloads (iCal).
@@ -90,7 +90,7 @@
 - Poster images for self-hosted videos
 - Control attributes (mute, loop, controlsList, etc.)
 
-✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13
+✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
 
 ### [EXT:whatchado](https://github.com/thomasrawiel/whatchado)
 📹 Embed videos from [whatchado.com](https://www.whatchado.com/).
