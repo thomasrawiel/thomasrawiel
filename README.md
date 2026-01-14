@@ -3,7 +3,7 @@
 ### [EXT:container_wrap](https://github.com/thomasrawiel/container-wrap)
 🧱 Add wrapper functions to simplify configuring `b13/container`.
 
-✅ TYPO3 12 · ✅ TYPO3 13
+✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
 
 ### [EXT:news_content_columns](https://github.com/thomasrawiel/news-content-columns)
 📰 Render content elements attached to news records in a different column than the news plugin.
