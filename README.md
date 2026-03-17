@@ -1,34 +1,3 @@
-## 📦 Misc. Extensions
-
-### [EXT:container_wrap](https://github.com/thomasrawiel/container-wrap)
-🧱 Add wrapper functions to simplify configuring `b13/container`.
-
-✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
-
-### [EXT:news_content_columns](https://github.com/thomasrawiel/news-content-columns)
-📰 Render content elements attached to news records in a different column than the news plugin.
-
-✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
-
-### [EXT:sup_header](https://github.com/thomasrawiel/sup-header)
-📝 Adds a simple button for editors to insert HTML tags into TCA fields without needing HTML knowledge.
-
-✅ TYPO3 12 · ✅ TYPO3 13
-
-### [EXT:vhs_col](https://github.com/thomasrawiel/vhs-col)
-🧰 Collection of useful ViewHelpers and TYPO3 helpers:
-- Register CTypes, doktypes, rootline fields
-- Adds TCA `ItemsProcFunction` to conditionally add select options
-
-✅ TYPO3 12 · ✅ TYPO3 13 · 👀 TYPO3 14
-
-### [EXT:vcfqr](https://github.com/thomasrawiel/vcfqr)
-🔗 QR Codes for typolinks, address records (VCF), and calendar downloads (iCal).
-
-✅ TYPO3 12 · ✅ TYPO3 13
-
----
-
 ## 📨 Extensions for EXT:powermail
 
 ### [EXT:powermailautocomplete](https://github.com/thomasrawiel/powermailautocomplete)
@@ -37,6 +6,8 @@
 - Supports standard tokens (email, name, etc.) and categories (billing, shipping, etc.)
 
 ✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13
+
+📦❌ deprecated with EXT:powermail >=12.6.0 || >=13.1.0
 
 ---
 
@@ -99,7 +70,46 @@
 
 ---
 
+## 📦 Misc. TYPO3-Extensions
+
+### [EXT:container_wrap](https://github.com/thomasrawiel/container-wrap)
+🧱 Add wrapper functions to simplify configuring `b13/container`.
+
+✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
+
+### [EXT:news_content_columns](https://github.com/thomasrawiel/news-content-columns)
+📰 Render content elements attached to news records in a different column than the news plugin.
+
+✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
+
+### [EXT:sup_header](https://github.com/thomasrawiel/sup-header)
+📝 Adds a simple button for editors to insert HTML tags into TCA fields without needing HTML knowledge.
+
+✅ TYPO3 12 · ✅ TYPO3 13
+
+### [EXT:vhs_col](https://github.com/thomasrawiel/vhs-col)
+🧰 Collection of useful ViewHelpers and TYPO3 helpers:
+- Register CTypes, doktypes, rootline fields
+- Adds TCA `ItemsProcFunction` to conditionally add select options
+
+✅ TYPO3 12 · ✅ TYPO3 13 · 👀 TYPO3 14
+
+### [EXT:vcfqr](https://github.com/thomasrawiel/vcfqr)
+🔗 QR Codes for typolinks, address records (VCF), and calendar downloads (iCal).
+
+✅ TYPO3 12 · ✅ TYPO3 13
+
+### [EXT:list_view_ext](https://github.com/thomasrawiel/list-view-ext/)
+🧩 Enhances TYPO3 checkbox fields: show labels instead of “Yes/No” in list view, with smart handling for single and multiple selections.
+
+✅ TYPO3 12 · ✅ TYPO3 13
+
+---
+
 ## 🛠️ Miscellaneous
+
+### [report-composer-diff](https://github.com/thomasrawiel/report-composer-diff)
+🧩 Symfony Console tool to diff composer.lock across Git refs. Grouped insights, TYPO3-aware, and exportable to HTML, JSON, Markdown & more.
 
 ### [goaccess-merge-loop](https://github.com/thomasrawiel/goaccess-merge-loop)
 📊 Merge Apache logs and process them with GoAccess in a loop.
