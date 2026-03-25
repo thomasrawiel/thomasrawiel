@@ -114,6 +114,9 @@
 ### [goaccess-merge-loop](https://github.com/thomasrawiel/goaccess-merge-loop)
 📊 Merge Apache logs and process them with GoAccess in a loop.
 
+### [cache-warm.sh](https://gist.github.com/thomasrawiel/c9d4b90ca7b08e41d240a901fcf1a923)
+🧩 Simple command line tool to curl request all urls in a sitemap.xml. Allows basic auth credentials.
+
 ---
 
 ## 📦 Composer Packages
