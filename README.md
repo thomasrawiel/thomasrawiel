@@ -25,17 +25,22 @@
 ### [EXT:powermailjira](https://github.com/thomasrawiel/powermail-jira)
 📥 Base extension for Jira integration with powermail.
 
-✅ TYPO3 12
+✅ TYPO3 12 ✅ TYPO3 13
 
 #### [EXT:powermail_jiraonpremise_issues](https://github.com/thomasrawiel/powermail-jiraonpremise-issues)
 🏢 Create Jira issues from powermail using API v2 (on-premise/self-hosted).
 
-✅ TYPO3 12
+✅ TYPO3 12 ✅ TYPO3 13
 
 #### [EXT:powermail_jira-issues](https://github.com/thomasrawiel/powermail-jira-issues)
 ☁️ Create Jira issues from powermail using API v3 (Jira Cloud).
 
 ✅ TYPO3 12
+
+### [EXT:powermail_salesforce](https://github.com/thomasrawiel/powermail-salesforce)
+☁️ Add a finisher to send data to salesforce
+
+✅ TYPO3 12 ✅ TYPO3 13
 
 ---
 
@@ -85,14 +90,18 @@
 ### [EXT:sup_header](https://github.com/thomasrawiel/sup-header)
 📝 Adds a simple button for editors to insert HTML tags into TCA fields without needing HTML knowledge.
 
-✅ TYPO3 12 · ✅ TYPO3 13
+✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
 
 ### [EXT:vhs_col](https://github.com/thomasrawiel/vhs-col)
 🧰 Collection of useful ViewHelpers and TYPO3 helpers:
-- Register CTypes, doktypes, rootline fields
 - Adds TCA `ItemsProcFunction` to conditionally add select options
 
 ✅ TYPO3 12 · ✅ TYPO3 13 · 👀 TYPO3 14
+
+### [EXT:tca_helper](https://github.com/thomasrawiel/tca-helper)
+- Register/ edit CTypes, doktypes TCA
+  
+✅ TYPO3 13 · ✅ TYPO3 14
 
 ### [EXT:vcfqr](https://github.com/thomasrawiel/vcfqr)
 🔗 QR Codes for typolinks, address records (VCF), and calendar downloads (iCal).
