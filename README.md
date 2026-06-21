@@ -18,7 +18,7 @@
 - Cloudflare Turnstile
 - Prosopo Procaptcha
 
-✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13
+✅ TYPO3 11 · ✅ TYPO3 12 · ✅ TYPO3 13 · ✅ TYPO3 14
 
 ---
 
